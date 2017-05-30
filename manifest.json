@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "LookUp Search",
+  "description": "Easily search the web for other occurences of the chosen text",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "lookup_search_logo.png",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": ["tabs", "contextMenus"]
+}

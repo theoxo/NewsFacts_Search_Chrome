@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  margin: 25px auto;
+  line-height: 1.6;
+  font-size: 12px;
+  color: #DDDDDD;
+  text-align: center;
+  background-color:#0B5C6E;
+}
+
+input {
+  text-align: center;
+  background-color: #DDDDDD;
+  margin-bottom: 25px;
+}
+
+button {
+  border: none;
+  background-color: #DDDDDD;
+  color: #0B5C6E;
+}
