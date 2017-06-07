@@ -55,7 +55,4 @@ function openNewTab(url) {
   w.focus();
 }
 
-function storeUrl(url) {
-  currentUrl = url;
-}
 
