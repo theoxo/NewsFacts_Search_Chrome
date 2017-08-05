@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
   goButton.addEventListener('click', function() {
 
-    // split input into seperate words
+    // split input into separate words
     var searchStrings = document.getElementById('input').value.split(/([_\W])/);
 
     // all wrapped in query as it's asynchronous and was acting up :(
